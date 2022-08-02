@@ -1,6 +1,6 @@
 # Build_and_deploy_trading_strategy_on_cloud
 
-This microproject was solely for learning purpose.
+This microproject was solely for learning purpose. I took the reference for this project from twiter thread goes by the handle name  @Indian_Quant. 
 
 In this project, I have:
 1. Extracted data from NSE
